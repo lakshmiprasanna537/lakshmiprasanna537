@@ -1,4 +1,4 @@
-                                ## Hi there 👋 I'm Lakshmi Prasanna
+##                                   Hi there 👋 I'm Lakshmi Prasanna
 🔭 Exploring scalable backend systems and building microservices using Java & Spring Boot, with hands-on exposure to Docker and Kubernetes  
 
 👯 Open to collaborating on backend projects, APIs, and cloud-integrated applications  
