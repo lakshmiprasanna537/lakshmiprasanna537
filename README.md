@@ -1,4 +1,4 @@
-## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=lakshmiprasanna537&icon=0&color=0)](https://visitcount.itsvg.in)
+## Hi there 👋 [![profile views](https://visitcount.itsvg.in/api?id=lakshmiprasanna537&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🔭 Exploring scalable backend systems and building microservices using Java & Spring Boot, with hands-on exposure to Docker and Kubernetes  
 
