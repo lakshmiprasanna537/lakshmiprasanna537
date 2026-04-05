@@ -10,6 +10,8 @@
 💬 Ask me about Java, Spring Boot, microservices, REST APIs, Docker, Kubernetes, and backend optimization  
 📫 Reach me at lakshmiprasanna.n001@gmail.com  
 
+![Profile views](https://komarev.com/ghpvc/?username=lakshmiprasanna537)
+
 ## About me
 
 
